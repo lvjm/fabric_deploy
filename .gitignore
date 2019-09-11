@@ -1,0 +1,9 @@
+
+fabric-artifacts/
+logs/
+sql-script-artifacts/
+storage/
+mount-volume/
+tools/
+.idea
+*.swp
